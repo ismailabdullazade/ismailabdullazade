@@ -5,7 +5,6 @@
 * 🚀  I'm currently working on [Fenix](https) and [AirBnb](http)
 * 🧠  I'm currently learning <i>Next.js</i>,<i>Node.js</i>,and <i>Nest.js</i>
 * 🤝  I'm open to collaborating on Projects and Job opportunities
-* ⚡  I Am Spiderman,Tell Everyone
 
 ### Skills
 
