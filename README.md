@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🌍  I'm based in Baku
+* 🌍  I'm live in Baku
 * ✉️  You can contact me at [ismailabdullazade715@gmail.com](ismailabdullazade715@gmail.com)
 * 🚀  I'm currently working on [Fenix](https) and [AirBnb](http)
 * 🧠  I'm currently learning <i>Next.js</i>,<i>Node.js</i>,and <i>Nest.js</i>
@@ -34,7 +34,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ismailabdullazade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />&nbsp</a> <a href="https://www.linkedin.com/in/ismailabdullazade/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp<a href="https://stackoverflow.com/users/21731031/riad-elimemmedov" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://www.github.com/ismailabdullazade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />&nbsp</a> <a href="https://www.linkedin.com/in/ismailabdullazade/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   
 </p>
 
