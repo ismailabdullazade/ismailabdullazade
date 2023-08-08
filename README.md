@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-* 🌍  I'm live in Baku
-* ✉️  You can contact me at [ismailabdullazade715@gmail.com](ismailabdullazade715@gmail.com)
+* 🌍  I live in Baku
+* ✉️  You can contact me via [ismailabdullazade715@gmail.com](ismailabdullazade715@gmail.com)
 * 🚀  I'm currently working on [Fenix](https) and [AirBnb](http)
 * 🧠  I'm currently learning <i>Next.js</i> and <i>Nest.js</i>
 * 🤝  I'm open to collaborating on Projects and Job opportunities.
